@@ -1,0 +1,14 @@
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.AssemblyInfo.cs
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\Code\Activiy\bin\Debug\net7.0\Activiy.exe
+C:\Users\lonez\Desktop\Code\Activiy\bin\Debug\net7.0\Activiy.deps.json
+C:\Users\lonez\Desktop\Code\Activiy\bin\Debug\net7.0\Activiy.runtimeconfig.json
+C:\Users\lonez\Desktop\Code\Activiy\bin\Debug\net7.0\Activiy.dll
+C:\Users\lonez\Desktop\Code\Activiy\bin\Debug\net7.0\Activiy.pdb
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.dll
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\refint\Activiy.dll
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.pdb
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\Activiy.genruntimeconfig.cache
+C:\Users\lonez\Desktop\Code\Activiy\obj\Debug\net7.0\ref\Activiy.dll
